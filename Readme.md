@@ -1,4 +1,5 @@
 # Fuzzy Bullet List Deduplication
+![TmnjVPxhzd](https://user-images.githubusercontent.com/106132469/222927852-2769f8f7-63b3-4236-a436-dd2ddb9e6528.png)
 
 This Python project provides a simple Graphical User Interface (GUI) that allows users to remove duplicate bullet points from a list of bullet points. The GUI is built using the Tkinter library and fuzzy string matching is performed using the fuzzywuzzy library.
 
