@@ -26,3 +26,11 @@ Click the "Deduplicate List Items" button to remove duplicate bullet points from
 ## Contributing
 
 Contributions to the project are welcome! If you encounter any bugs or would like to suggest improvements, feel free to open an issue or submit a pull request.
+
+## Potential Development
+
+### Javascript Implementation
+I could develop a quick little "io" website to do the same thing and host it feely on Netlify
+
+### Use Different Similarity Algorithm
+I think that Jaccard similarity might work better
