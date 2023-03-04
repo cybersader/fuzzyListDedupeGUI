@@ -66,12 +66,6 @@ convert_button_width = root.winfo_width() * 0.1
 convert_button.config(width=int(convert_button_width))
 style.map('TButton', background=[('active', '#555555')])
 
-# # Create output box
-# output_box = Text(root, height=10, width=1, bg='#222222', fg='#00ffff', insertbackground='#00ffff')
-# output_box.grid(row=1, column=2, padx=10, pady=10, sticky="nsew")
-# output_box_width = root.winfo_width() * 0.45
-# output_box.config(width=int(output_box_width))
-
 # Create threshold frame
 threshold_frame = Frame(root, bg='#111111')
 threshold_frame.grid(row=0, column=1, padx=10, pady=10, sticky="nsew")
