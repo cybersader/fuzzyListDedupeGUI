@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+python_env/
+.venv2/
+.venv3/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite3
+*.db
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Test files #
+##############
+/.pytest_cache/
+/pytest.ini
+/coverage.xml
+/htmlcov/
+
+# Distribution / packaging #
+#############################
+*.egg-info/
+dist/
+build/
