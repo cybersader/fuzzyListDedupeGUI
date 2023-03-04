@@ -12,7 +12,7 @@ Once you have the necessary dependencies installed, you can run the project by e
 
 `python main.py` 
 
-Alternatively, if you are running Windows, you can run the provided `fuzzy_bullet_list_deduplication.exe` file located in the `dist` directory.
+Alternatively, if you are running Windows, you can run the provided exe file in the 'Releases' section to the right.
 
 ## Usage
 
